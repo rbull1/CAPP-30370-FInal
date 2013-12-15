@@ -4,6 +4,12 @@
 
 nav {padding:10px;}
 
+p {background-color:navy;
+	color:gold;
+	padding:10px;}
+	
+.link {color:white;}
+
 .logo1:hover{
 	-webkit-transform:rotate(180deg);}
 
