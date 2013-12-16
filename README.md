@@ -4,6 +4,9 @@ CAPP-30370-Final
 Repo for Final Project
 --------
 
+###Purpose
+I chose to create an un-official website for the Notre Dame baseball team. As a current member of the team, I thought it would be fun to generate a website that created interest in the program. I thought that it would be a good idea to integrate former players and the 2014 schedule into the site. The site was designed to inform the public about recent news and give them an inside look at Notre Dame baseball.
+
 ###Break Points
 I used media screens on my pages. The pages have a mobile view when the min-width is 
 under 700px. When the scree is between 700px and 1000px, the page goes to a tablet view. Finally, when the page is 
