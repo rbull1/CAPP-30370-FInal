@@ -35,23 +35,23 @@ body {background-image:url('http://daneladwig.files.wordpress.com/2013/01/univer
 	#col1 {float:left; width:48%;}
 	#col2 {float:right; width:48%;}
 	#container2{overflow:hidden; width:100%; clear:both;}
-.col {float:left; width:32%;}
-.col1,.col2 {margin-right:2%}
-#container3 {overflow:hidden; width:100%; clear:both;}
-#container3 .col{float:left; width: 48%}
-#container3 .col1, #container3 .col2, #container3 .col3, #container3 .col4 {margin-right:2%;}
-footer{overflow:hidden; width; clear:both;}
+	.col {float:left; width:32%;}
+	.col1,.col2 {margin-right:2%}
+	#container3 {overflow:hidden; width:100%; clear:both;}
+	#container3 .col{float:left; width: 48%}
+	#container3 .col1, #container3 .col2, #container3 .col3, #container3 .col4 {margin-right:2%;}
+	footer{overflow:hidden; width; clear:both;}
 }
 
 
 @media screen and (min-width:1000px){
-#container2{overflow:hidden; width:100%; clear:both;}
-.col {float:left; width:32%;}
-.col1,.col2 {margin-right:2%}
-#container3{overflow:hidden; width:100%; clear:both;}
-#container3 .col {float:left; width:21%;}
-#container3 .col1,#container3 .col2,#container3 .col3{margin-right:4%;}
-footer{overflow:hidden; width:100%; clear:both;}
+	#container2{overflow:hidden; width:100%; clear:both;}
+	.col {float:left; width:32%;}
+	.col1,.col2 {margin-right:2%}
+	#container3{overflow:hidden; width:100%; clear:both;}
+	#container3 .col {float:left; width:21%;}
+	#container3 .col1,#container3 .col2,#container3 .col3{margin-right:4%;}
+	footer{overflow:hidden; width:100%; clear:both;}
 }
 
 

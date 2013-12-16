@@ -25,10 +25,10 @@ p {background-color:navy;
 
 .field
 {
-    -webkit-animation-name:             rotate; 
-    -webkit-animation-duration:         3s; 
-    -webkit-animation-iteration-count:  infinite;
-    -webkit-animation-timing-function: linear;
+    -webkit-animation-name:rotate; 
+    -webkit-animation-duration:3s; 
+    -webkit-animation-iteration-count:infinite;
+    -webkit-animation-timing-function:linear;
 }
 
 body {background-image:url('http://daneladwig.files.wordpress.com/2013/01/university-of-notre-dame-logo.jpg');}
